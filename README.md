@@ -39,16 +39,17 @@ The primary objective of this project is to enhance understanding of Spring Boot
 Here are some screenshots showcasing the application in action:
 
 - **User Management Page (Empty Table)**  
-  
+  ![Empty](https://github.com/user-attachments/assets/bce6c1b4-11a3-4e16-af61-ef3a299882aa)
 
 - **Adding a New User**  
-  
+  ![Insert evidence Hibernate](https://github.com/user-attachments/assets/48ab8a59-5f0d-492f-985d-7b9c3dc77e52)
 
 - **User Table After Adding a User**  
-  
+  ![Post user evidence](https://github.com/user-attachments/assets/20d45b2b-6d34-4375-bd86-7aa563b01107)
+  ![Users list](https://github.com/user-attachments/assets/0bf702a3-5d1d-4689-9699-538b2e99b24f)
 
 - **Deleting a User**
-
+   ![Delete ](https://github.com/user-attachments/assets/d482aa83-d0c7-4373-9a30-5680e12cf9e7)
   
 
 ## 📅 Project Information
